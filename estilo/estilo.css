@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: #f4f0e5;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
